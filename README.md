@@ -13,3 +13,5 @@ Cada integrante crea su archivo en `integrantes/[tu-nombre].md` con:
 - **Carrera:**
 - **Una frase:**
 - **Foto:** `![foto](https://github.com/tu-usuario.png)`
+
+Bienvenidos al equipo!
