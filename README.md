@@ -1,4 +1,4 @@
-# Equipo [nombre]
+# Equipo - Sofia
 
 ## Integrantes
 
