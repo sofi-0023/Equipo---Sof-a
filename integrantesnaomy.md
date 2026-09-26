@@ -1,5 +1,8 @@
 - **Nombre:**
+Naomy Jackelyn Alférez Canché
 - **Carrera:**
+Licenciatura en Ingeniería en Software
 - **Una frase:**
-- **Foto:** `![foto](https://github.com/tu-usuario.png)`
-Minimo cambio
+Dificil, pero no imposible
+- **Foto:** 
+https://github.com/NaomyAlferez.png
